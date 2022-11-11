@@ -3,6 +3,6 @@
 A web-app which consists of four counters.
 
 Buttons descriptions:
-Increment -- increments the counter
-Delete -- Deletes the counter
-Reset -- Resets the present counter values to zero
+(1)Increment -- increments the counter
+(2)Delete -- Deletes the counter
+(3)Reset -- Resets the present counter values to zero
